@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.page-heading {
+    margin-top: 50px;
+}
+
+.menu-section {
+    height: 1000px; /* Adjust as needed */
+    background-color: #f5f5f5; /* Choose your background color */
+}
